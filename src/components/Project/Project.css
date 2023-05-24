@@ -1,0 +1,29 @@
+.heading-container {
+  width: 100%;
+  padding: 10px;
+}
+
+.heading {
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.input-container {
+  margin-left: 12px;
+}
+
+.input {
+  width: 80%;
+  height: 28px;
+}
+
+.button {
+  margin-left: 10px;
+  height: 34px;
+  width: 65px;
+  background-color: #008e67;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
